@@ -12,6 +12,10 @@ The model will be trained on labeled text data where each word is tagged with it
 
 After training, the model will be tested on new, unseen text to evaluate its performance in recognizing entities. The objective is to achieve high accuracy in extracting relevant information from text data efficiently.
 
+Named Entity Recognition (NER) is a key task in Natural Language Processing where entities such as names, locations, and organizations are identified from text. The objective of this project is to develop an LSTM-based model to recognize named entities in the given text by capturing sequential patterns, and to evaluate its performance using appropriate metrics such as precision, recall, and F1-score.
+
+
+
 
 <img width="1441" height="856" alt="image" src="https://github.com/user-attachments/assets/784b9500-e350-4739-9440-ebbe88a7c078" />
 
